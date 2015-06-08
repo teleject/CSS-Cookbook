@@ -1,0 +1,86 @@
+﻿body {
+	font-size: 62.5%;
+	font-family: "Myriad Pro", Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+
+#frame {
+	text-align: left;
+}
+
+
+
+blockquote {
+	text-indent: -1000em;
+}
+
+#downloads h2 {
+	font-family: "Myriad Pro", "Myriad Web", sans-serif;
+	font-size: 1.4em;
+	text-transform: uppercase;
+}
+
+#downloads ul li a {
+	font-size: 1.4em;
+}
+
+#buybook h3 {
+	font-family: "Myriad Pro", Mryiad, sans-serif;
+	font-size: 1.4em;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: -.01em;
+}
+
+#buybook ul li a {
+	font-size: 1.4em;
+}
+
+#bookreview {
+	position: relative;
+	text-align: center;
+	font-size: 1.4em;
+}
+
+#enews h4 {
+	font-size: 1.2em;
+}
+
+#enews p {
+	font-size: 1.2em;
+	line-height: 1.2;
+}
+
+#enews form {
+	font-size: 1em;
+}
+
+#otherbooks h5 {
+	font-size: 1.2em;
+}
+
+#otherbooks dd {
+	font-size: 1.1em;
+}
+
+#footer {
+	text-align: center;
+}
+
+#footer p {
+	line-height: 1.5;
+	font-size: .9em;
+}
+
+a {
+	text-decoration: none;
+}
+
+#feedback p {
+	font-size: 1.2em;
+}
+
+p {
+	line-height: 1.25;
+}
+

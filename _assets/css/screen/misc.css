@@ -1,0 +1,23 @@
+﻿#downloads ul li {
+	list-style-type: none;
+}
+
+#downloads a:hover .info:before {
+	content: ": ";
+}
+
+#downloads a:hover .info:after {
+	content: " \00BB";
+}
+
+#buybook a:hover .info:after {
+	content: " \&#187;";
+}
+
+#buybook ul {
+	list-style-type: none;
+}
+
+#enews label:after {
+	content: ": ";
+}

@@ -1,0 +1,140 @@
+﻿body {
+	background-image: url(/_assets/img/cssckbk_bkgd_body_v2.jpg);
+	background-color: #005353;
+	color: #e6e7e8;
+}
+
+#frame {
+	margin-top: -48px;
+	border-top: 1px solid #006261;
+	border-left: 1px solid #367c81;
+	border-right: 1px solid #367c81;
+	background-color: #004369;
+	background-image: url(/_assets/img/cssckbk_bkgd_frame.png);
+}
+
+blockquote {
+	background-image: url(/_assets/img/cssckbk_quote.gif);
+}
+
+#downloads h2 {
+	border-bottom: 1px solid #005d67;
+	background-color: #409b9e;
+	color: #e6e7e8;
+	text-shadow: #15959b 2px 2px 1px;
+}
+
+#downloads ul li {
+	border-bottom: 1px solid #005464;
+}
+
+#buybook h3 {
+	border-bottom: 1px solid #005464;
+	background-color: #41919b;
+	color: #e6e7e8;
+	text-shadow: #15959b 2px 2px 1px;
+
+}
+
+#buybook ul li {
+	border-bottom: 1px solid #005464;
+}
+
+#belowfold {
+	border-top: 1px solid #00709a;
+	background-image: url(/_assets/img/cssckbk_bkgd_belowfold.jpg);
+}
+
+#feedback {
+	margin-left: 20px;
+}
+
+#feedback h3 {
+	border-bottom: 1px solid #739aac;
+	text-shadow: #003333 2px 2px 1px;
+	margin-bottom: 11px;
+	padding-bottom: 9px;
+}
+
+#feedback p {
+	
+}
+
+#enews h4 {
+	border-bottom: 1px solid #739aac;
+	text-shadow: #003333 2px 2px 1px;
+	
+}
+
+#enews form {
+	background-color: #1b6c8a;
+	color: #72a7b9;
+}
+
+#otherbooks h5 {
+	border-bottom: 1px solid #739aac;
+	text-shadow: #003333 2px 2px 1px;
+}
+
+#otherbooks dl a img {
+	background-color: #739aac;
+}
+
+#otherbooks dd {
+	color: #739aac;
+}
+
+#footer {
+	background-image: url(/_assets/img/cssckbk_bkgd_footer.gif);
+}
+
+     #buybook a:link,
+  #buybook a:visited,
+   #downloads a:link,
+#downloads a:visited {
+
+	background-image: url(/_assets/img/teal_bullet.gif);
+}
+
+   #buybook a:hover,
+  #buybook a:active,
+ #downloads a:hover,
+#downloads a:active {
+
+	background-image: url(/_assets/img/white_bullet.gif);
+}
+
+#otherbooks dl a:link, #otherbooks dl a:visited {
+	color: #739aac;
+}
+
+.mugshot {
+	float: right;
+	border: 1px solid #000033;
+	padding: 1px;
+	background: white;
+	margin-left: 3px;
+}
+
+#buybook:hover h3 {
+ background-color: #138b96;
+}
+
+#buybook li a img {
+	opacity: 0.75;
+}
+#buybook li a:hover img {
+	opacity: 0.9999;
+}
+
+#downloads:hover h2 {
+ background-color: #138b96;
+}
+
+#downloads li a img {
+	opacity: 0.75;
+}
+#downloads li a:hover img {
+	opacity: 0.9999;
+}
+

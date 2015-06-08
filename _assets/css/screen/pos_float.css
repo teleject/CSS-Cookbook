@@ -1,0 +1,49 @@
+﻿#frame {
+	position: relative;	
+}
+
+#main {
+	position: relative;
+}
+
+#header h1 {
+	position: absolute;
+	left: -30px;
+	top: 54px;
+}
+
+#bookreview {
+	position: relative;
+}
+
+#enews {
+	float: right;
+	position: relative;
+}
+
+#enews #enews-submit {
+	position: relative;
+	top: .4em;
+}
+
+#otherbooks {
+	position: relative;
+}
+
+#otherbooks dl {
+	float: left; 
+}
+
+#footer {
+	position: relative;
+	clear: both;
+}
+
+     #buybook a:link,
+  #buybook a:visited,
+   #downloads a:link,
+#downloads a:visited {
+
+	position: relative;
+	z-index: 1000;
+}

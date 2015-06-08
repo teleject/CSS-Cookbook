@@ -1,0 +1,89 @@
+﻿body {
+	background-position: 50% 0;
+}
+
+#frame {
+	position: relative;	
+	background-repeat: no-repeat;
+	background-position: 0 0;
+}
+
+blockquote {
+	background-repeat: no-repeat;
+	background-position: 0 47px;
+}
+
+#downloads ul {
+	background-repeat: repeat-y;	
+}
+
+#downloads a:hover .info {
+	color: #999;
+}
+
+#downloads span.info:hover {
+	color: #e6e7e8;
+}
+
+#buybook {
+	background-position: bottom right;
+	background-repeat: no-repeat;
+}
+		
+#buybook a:hover .info {
+	color: #999;
+}
+
+#buybook span.info:hover {
+	color: #e6e7e8;
+}
+
+#buybook ul {
+	background-repeat: repeat-y;
+}
+
+#belowfold {
+	background-repeat: no-repeat;
+}
+
+#footer {
+	background-repeat: no-repeat;
+}
+
+a {
+	color: white;
+}
+
+     #buybook a:link,
+  #buybook a:visited,
+   #downloads a:link,
+#downloads a:visited {
+
+	background-position: 13px .8em;
+	background-repeat: no-repeat;
+	color: #bfbfbf;
+}
+   #buybook a:hover,
+  #buybook a:active,
+ #downloads a:hover,
+#downloads a:active {
+
+	background-position: 13px .8em;
+	background-repeat: no-repeat;	
+	color: #ffffff;
+}
+
+#otherbooks dl a:hover img {
+	background-color: white;
+}
+
+#otherbooks dl:hover, #otherbooks dl:hover dd a {
+	color: white;
+}
+#otherbooks dl:hover dt a img {
+	background-color: white;
+}
+
+#footer a:link, #footer a:visited {
+	color: #ccc;
+}
