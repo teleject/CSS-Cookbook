@@ -1,0 +1,41 @@
+﻿/*
+	Title:      Isolated CSS rules for alpha transparency
+	Author:     Christopher Schmitt, http://christopherschmitt.com/
+	Updated:    Friday; March 5, 2006
+*/
+
+#downloads ul {
+	background-image: url(/assets/img/alpha_10_fade.png);
+}
+
+#downloads ul:hover {
+	background-image: url(/assets/img/alpha_90_fade_blck.png);
+}
+
+#buybook {
+	background-image: url(/assets/img/alpha_10_fade2.png);
+}
+
+#buybook ul {
+	background-image: url(/assets/img/alpha_10_fade.png);
+}
+
+#buybook ul:hover {
+	background-image: url(/assets/img/alpha_90_fade_blck.png);
+}
+
+#www-csscookbook-com #frame {
+	background-image: url(/assets/img/cssckbk_bkgd_frame.png);
+}
+
+#www-csscookbook-com #header h1 {
+	background-image: url(/assets/img/cssckbk_cover_3e.png);
+}
+
+#www-procssbook-com #frame {
+	background-image: url(/assets/img/procss_bkgd_frame.jpg);
+}
+
+#www-procssbook-com #header h1 {
+	background-image: url(/assets/img/procss_cover.png);
+}

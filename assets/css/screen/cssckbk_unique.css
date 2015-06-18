@@ -1,5 +1,5 @@
 ﻿body {
-	background-image: url(/_assets/img/cssckbk_bkgd_body_v2.jpg);
+	background-image: url(/assets/img/cssckbk_bkgd_body_v2.jpg);
 	background-color: #005353;
 	color: #e6e7e8;
 }
@@ -10,11 +10,11 @@
 	border-left: 1px solid #367c81;
 	border-right: 1px solid #367c81;
 	background-color: #004369;
-	background-image: url(/_assets/img/cssckbk_bkgd_frame.png);
+	background-image: url(/assets/img/cssckbk_bkgd_frame.png);
 }
 
 blockquote {
-	background-image: url(/_assets/img/cssckbk_quote.gif);
+	background-image: url(/assets/img/cssckbk_quote.gif);
 }
 
 #downloads h2 {
@@ -42,7 +42,7 @@ blockquote {
 
 #belowfold {
 	border-top: 1px solid #00709a;
-	background-image: url(/_assets/img/cssckbk_bkgd_belowfold.jpg);
+	background-image: url(/assets/img/cssckbk_bkgd_belowfold.jpg);
 }
 
 #feedback {
@@ -85,7 +85,7 @@ blockquote {
 }
 
 #footer {
-	background-image: url(/_assets/img/cssckbk_bkgd_footer.gif);
+	background-image: url(/assets/img/cssckbk_bkgd_footer.gif);
 }
 
      #buybook a:link,
@@ -93,7 +93,7 @@ blockquote {
    #downloads a:link,
 #downloads a:visited {
 
-	background-image: url(/_assets/img/teal_bullet.gif);
+	background-image: url(/assets/img/teal_bullet.gif);
 }
 
    #buybook a:hover,
@@ -101,7 +101,7 @@ blockquote {
  #downloads a:hover,
 #downloads a:active {
 
-	background-image: url(/_assets/img/white_bullet.gif);
+	background-image: url(/assets/img/white_bullet.gif);
 }
 
 #otherbooks dl a:link, #otherbooks dl a:visited {
